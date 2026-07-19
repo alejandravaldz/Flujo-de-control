@@ -33,7 +33,7 @@ El resultado muestra:
 
 
 ---
-## Programa que le permite al usuario introducir sus 4 calificaciones
+## Programa que permite al usuario introducir sus 4 calificaciones
 
 
 
