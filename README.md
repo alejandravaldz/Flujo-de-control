@@ -29,6 +29,7 @@ El resultado muestra:
 ---
 
 ## 📖  Captura del Programa en Ejecución.
+<img width="2068" height="1238" alt="Captura de pantalla 2026-07-19 131221" src="https://github.com/user-attachments/assets/feb29794-49ef-49cc-9f3d-d663f352f7e0" />
 
 
 
