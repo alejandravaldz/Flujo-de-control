@@ -1,17 +1,32 @@
-# Programa que calcula el Impuesto sobre la renta
+# 💼 Proyecto: Cálculo de Inpuesto Sobre la Renta en C#
 
-# 📌Flujo-de-control
-Este programa en C# permite calcular el **Impuesto Sobre la Renta (ISR)** de un empleado según su sueldo, aplicando las escalas salariales vigentes de la DGII. 
-
+## 📌 Descripción
+Este programa en C# permite calcular el **Impuesto Sobre la Renta (ISR)** de un empleado según su sueldo, aplicando las escalas salariales vigentes de la DGII.  
 El resultado muestra:
 - El sueldo ingresado.
 - El monto de ISR a pagar.
-- "N/A" si el empleado está exento
+- "N/A" si el empleado está exento.
 
-# 🚀Funcionalidades
+---
+
+## 🚀 Funcionalidades
 - Lectura del sueldo desde consola.
 - Cálculo automático del ISR según tramos salariales.
 - Visualización clara del resultado.
 
-# Capturas de pantalla de los diferentes escenarios
-![Texto alternativo de la imagen](ruta/de/tu/imagen.png)
+---
+
+## 🛠️ Tecnologías utilizadas
+- Lenguaje: **C#**
+- Entorno: **Console Application**
+
+---
+
+## 📂 Estructura del código
+- `Program.cs`: Contiene el método `Main` y la lógica principal.
+- `CalcularISR()`: Función que determina el impuesto según el sueldo.
+
+---
+
+## 📖  Captura del Programa en Ejecución.
+
