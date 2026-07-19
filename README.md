@@ -1,4 +1,4 @@
-# 📘 Proyecto: Calculo de Impuesto Sobre la Renta 
+## 📘 Proyecto: Calculo de Impuesto Sobre la Renta 
 
 ## 📌 Descripción
 Este programa en C# permite calcular el **Impuesto Sobre la Renta (ISR)** de un empleado según su sueldo, aplicando las escalas salariales vigentes de la DGII.  
