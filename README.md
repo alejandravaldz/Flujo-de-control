@@ -33,7 +33,7 @@ El resultado muestra:
 
 
 ---
-## Fujo control 2: Programa que le permite al usuario introducir sus 4 calificaciones
+## Programa que le permite al usuario introducir sus 4 calificaciones
 
 
 
