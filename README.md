@@ -1,11 +1,8 @@
 ## 📘 Programa: Calculo de Impuesto Sobre la Renta 
 
 ## 📌 Descripción
-Este programa en C# permite calcular el **Impuesto Sobre la Renta (ISR)** de un empleado según su sueldo, aplicando las escalas salariales vigentes de la DGII.  
-El resultado muestra:
-- El sueldo ingresado.
-- El monto de ISR a pagar.
-- "N/A" si el empleado está exento.
+Este programa en C# permite calcular el **Impuesto Sobre la Renta (ISR)** de un empleado en la República Dominicana. Permite al usuario ingresar su sueldo mensual y el sistema determina el sueldo anual neto, aplicando las escalas salariales vigentes de la DGII.  
+Según el tramo en que se encuentre, el programa calcula el ISR anual y mensual, o muestra **N/A** si el sueldo está exento.
 
 ---
 
@@ -31,6 +28,9 @@ El resultado muestra:
 
 ## 📷  Captura del Programa en Ejecución.
 ---
+<img width="1506" height="730" alt="WhatsApp Image 2026-07-19 at 9 37 08 PM (1)" src="https://github.com/user-attachments/assets/019de919-65d8-4cb5-ac59-afda4209fc62" />
+
+<img width="1506" height="730" alt="image" src="https://github.com/user-attachments/assets/8728f379-8832-498f-9af2-55f939266f74" />
 
 
 
