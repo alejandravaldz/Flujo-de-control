@@ -10,13 +10,14 @@ El resultado muestra:
 ---
 
 ## 🚀 Funcionalidades
-- Lectura del sueldo desde consola.
-- Cálculo automático del ISR según tramos salariales.
-- Visualización clara del resultado.
+- Solicita el sueldo mensual del empleado.  
+- Calcula el sueldo anual neto.  
+- Aplica la escala progresiva del ISR (15%, 20%, 25%).  
+- Muestra en pantalla el ISR anual y mensual.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 📊 Tecnologías utilizadas
 - Lenguaje: **C#**
 - Entorno: **Console Application**
 
@@ -28,7 +29,7 @@ El resultado muestra:
 
 ---
 
-## 📖  Captura del Programa en Ejecución.
+## 📷  Captura del Programa en Ejecución.
 ---
 
 
